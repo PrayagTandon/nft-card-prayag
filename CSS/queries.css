@@ -1,7 +1,7 @@
 /* Writing media queries */
 
 /* For larger tablets */
-@media (max-width: 64em) {
+@media (max-width: 62em) {
   html {
     font-size: 56.25%;
   }
