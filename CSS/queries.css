@@ -1,5 +1,11 @@
 /* Writing media queries */
 
+@media (min-width: 77em) {
+  .container {
+    max-width: 20%;
+  }
+}
+
 /* For larger tablets */
 @media (max-width: 62em) {
   html {
