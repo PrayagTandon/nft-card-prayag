@@ -33,7 +33,7 @@ Users should be able to:
 
 ### Screenshot
 
-![Laptop screendhot](img/Laptop-sceenshot.png)
+![Laptop screendhot](https://github.com/PrayagTandon/nft-card-prayag/blob/main/Img/Laptop-sceenshot.png)
 ![Mobile Screenshot](img/Mobile-sceenshot.png)
 
 ### Links
