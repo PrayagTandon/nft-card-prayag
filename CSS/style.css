@@ -1,0 +1,134 @@
+.container {
+  max-width: 25%;
+  background-color: hsl(216, 50%, 16%);
+  border-radius: 11px;
+  color: #f5f5dc;
+}
+
+.img-box {
+  margin: 1.6rem;
+  border-radius: 9px;
+  overflow: hidden;
+
+  position: relative;
+
+  transition: all 0.3s;
+}
+
+.img-box img {
+  width: 100%;
+}
+
+.img-box svg {
+  position: absolute;
+  top: 40%;
+  left: 40%;
+  display: none;
+}
+
+.overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  background-color: hsla(215, 52%, 70%, 0.473);
+  display: none;
+}
+
+.img-box:hover {
+  cursor: pointer;
+}
+
+.img-box:hover svg,
+.img-box:hover .overlay {
+  display: block;
+}
+
+.text-container {
+  margin: 1.6rem;
+}
+
+.heading {
+  font-size: 2rem;
+  margin-bottom: 1.2rem;
+}
+
+.text-description {
+  font-size: 1.4rem;
+  line-height: 1.6;
+  margin-bottom: 1.6rem;
+  color: hsl(215, 51%, 70%);
+  font-weight: 300;
+}
+
+.logos {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+  padding-bottom: 1.2rem;
+  border-bottom: 1px solid hsl(215, 32%, 27%);
+}
+
+.eth-logo,
+.days-left {
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
+}
+
+/* .logo {
+  font-size: 0.8rem;
+} */
+
+.number {
+  color: hsl(178, 100%, 50%);
+}
+
+.days-text {
+  color: hsl(215, 51%, 70%);
+}
+
+.number,
+.days-text {
+  font-size: 1.2rem;
+}
+
+.author {
+  display: flex;
+  align-items: center;
+  gap: 0.8rem;
+
+  margin: 1.6rem;
+  margin-top: 1.2rem;
+}
+
+.avatar-img-box img {
+  width: 1.6rem;
+  height: 1.6rem;
+  border: 1px solid hsl(0, 0%, 100%);
+  border-radius: 50%;
+}
+
+.author-text {
+  font-size: 1.2rem;
+  align-self: flex-start;
+}
+
+.creation {
+  color: hsl(215, 51%, 70%);
+}
+
+.heading,
+.author-name {
+  transition: all 0.3s;
+}
+
+.author-name:hover,
+.author-name:active,
+.heading:hover,
+.heading:active {
+  cursor: pointer;
+  color: hsl(178, 100%, 50%);
+}

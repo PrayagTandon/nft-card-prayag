@@ -1,0 +1,32 @@
+/* Writing media queries */
+
+/* For larger tablets */
+@media (max-width: 64em) {
+  html {
+    font-size: 56.25%;
+  }
+  .container {
+    max-width: 30%;
+  }
+}
+
+@media (max-width: 47em) {
+  html {
+    font-size: 50%;
+  }
+  .container {
+    max-width: 35%;
+  }
+}
+
+@media (max-width: 36em) {
+  .container {
+    max-width: 45%;
+  }
+}
+
+@media (max-width: 28em) {
+  .container {
+    max-width: 55%;
+  }
+}
