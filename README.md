@@ -33,12 +33,12 @@ Users should be able to:
 
 ### Screenshot
 
-![Laptop screendhot](img/Laptop-sceenshot.png)
-![Mobile Screenshot](img/Mobile-sceenshot.png)
+![Laptop screendhot](https://github.com/PrayagTandon/nft-card-prayag/blob/main/Img/Laptop-sceenshot.png)
+![Mobile Screenshot](https://github.com/PrayagTandon/nft-card-prayag/blob/main/Img/Mobile-screenshot.png)
 
 ### Links
 
-- Solution URL: [Github Solution](https://github.com/PrayagTandon/nft-card-prayag)
+- Solution URL: [Github solution](https://github.com/PrayagTandon/nft-card-prayag)
 - Live Site URL: [Netlify Deployment](https://nft-prayag.netlify.app/)
 
 ## My process
