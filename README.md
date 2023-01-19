@@ -39,7 +39,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Github solution](https://github.com/PrayagTandon/nft-card-prayag)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Netlify Deployment](https://nft-prayag.netlify.app/)
 
 ## My process
 
